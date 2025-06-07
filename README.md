@@ -3,7 +3,7 @@ This is a android project built with:
 - Supabase.
 
 Author:
-- Nguyễn Bá Hải Long (Leader)
+- Nguyễn Bá Hải Long - Me (Leader)
 - Nguyễn Văn Kiên
 - Phạm Tiến Thành
 - Đỗ Quang Tùng
